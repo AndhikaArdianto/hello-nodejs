@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ec7bcab.css",
+    "main.js": "/static/js/main.62e1228d.js",
+    "static/js/453.f7be5b23.chunk.js": "/static/js/453.f7be5b23.chunk.js",
+    "static/media/accessDenied.png": "/static/media/accessDenied.bb066afc501f687bd7af.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/pageNotFound.png": "/static/media/pageNotFound.fada845dfd5bbf409645.png",
+    "static/media/logoutPlease.png": "/static/media/logoutPlease.394f7a06f688cf84ead8.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/Logo_KONEKSI.png": "/static/media/Logo_KONEKSI.765da13c759bf5ccd6b9.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.2ec7bcab.css.map": "/static/css/main.2ec7bcab.css.map",
+    "main.62e1228d.js.map": "/static/js/main.62e1228d.js.map",
+    "453.f7be5b23.chunk.js.map": "/static/js/453.f7be5b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec7bcab.css",
+    "static/js/main.62e1228d.js"
+  ]
+}
